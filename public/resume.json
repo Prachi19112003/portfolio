@@ -1,0 +1,142 @@
+{
+    "name": "Prachi",
+    "contact": {
+      "phone": "9315262116",
+      "email": "oshiiimalhotra@gmail.com",
+      "address": "168A/1, Veena Enclave, Nangloi, New Delhi 110041"
+    },
+    "academic_profile": [
+      {
+        "degree": "B-Tech Computer Science and Engineering",
+        "institution": "IIT (BHU), Varanasi",
+        "percentage_cgpa": "6.25",
+        "year": "2026"
+      },
+      {
+        "degree": "CBSE (XII)",
+        "institution": "Kendriya Vidyalaya Paschim Vihar",
+        "percentage_cgpa": "76.40",
+        "year": "2022"
+      },
+      {
+        "degree": "CBSE (X)",
+        "institution": "Kendriya Vidyalaya Paschim Vihar",
+        "percentage_cgpa": "92.40",
+        "year": "2020"
+      }
+    ],
+    "skills": {
+      "languages": ["C++", "C", "Python", "MySQL", "Bash"],
+      "technologies": ["Django", "NumPy", "Pandas", "Reinforcement Learning", "HTML", "CSS"],
+      "interests": ["Competitive Programming", "Web Development", "Data Structures and Algorithms", "Machine Learning"],
+      "relevant_courses": [
+        "Data Structures and Algorithms",
+        "Database Management System",
+        "Computer System Organization",
+        "IT Workshop-I (Bash and Python)",
+        "IT Workshop-II (Django and SQL)",
+        "Operating Systems",
+        "Artificial Intelligence",
+        "Intelligent Computing",
+        "Computer Graphics",
+        "Computer Architecture",
+        "Theory of Computation",
+        "Software Engineering"
+      ],
+      "soft_skills": ["Public Speaking", "Decision Making", "Effective Communication", "Team Work", "Effective Management"]
+    },
+    "projects": [
+      {
+        "title": "Hospital Management System (Spring Boot)",
+        "duration": "Aug 2024 - Nov 2024",
+        "supervisor": "Prof. Ravindranath Chowdary",
+        "description": "Built a web-based Hospital Management System to streamline administrative and operational processes in healthcare settings. Integrated a DBMS backend using JDBC and developed the application using Spring Boot.",
+        "features": [
+          "User authentication (Login/Register)",
+          "Patient and Doctor Management",
+          "Appointment Scheduling",
+          "Billing and Reports with CRUD functionality"
+        ],
+        "technologies": ["Spring Boot", "JDBC", "MySQL", "HTML", "CSS", "JavaScript", "Java"]
+      },
+      {
+        "title": "Breast Cancer Detection (Machine Learning)",
+        "duration": "Aug 2024 - Nov 2024",
+        "supervisor": "Prof. Pratik Chattopadhyay",
+        "description": "Developed a machine learning model to detect breast cancer using thermal imaging and genetic algorithms for feature selection and optimization. The project utilized image preprocessing and advanced classification techniques to enhance diagnostic accuracy.",
+        "features": [
+          "Image preprocessing (noise reduction, segmentation)",
+          "Feature extraction using thermal data",
+          "Optimization using genetic algorithms",
+          "Classification"
+        ],
+        "technologies": ["Python", "OpenCV", "NumPy", "Scikit-learn", "Genetic Algorithm", "Thermal Image Processing"]
+      },
+      {
+        "title": "Analysis of Better Reward System - Reinforcement Learning",
+        "duration": "Jan 2024 - May 2024",
+        "supervisor": "Prof. Lakshmanan Kailasam",
+        "description": "Led a project using Q-learning to optimize reinforcement learning models. Discovered that penalized reward systems outperform goal-based ones.",
+        "features": [
+          "Experimenting with different reward systems for accurate and safer results"
+        ],
+        "technologies": ["Reinforcement Learning", "Gymnasium environments"]
+      },
+      {
+        "title": "Discourse Platform (Django)",
+        "duration": "Aug 2023 - Nov 2023",
+        "supervisor": "Prof. Amrita Chaturvedi",
+        "description": "Built a Python-based Debate App to facilitate open discussions on social issues. Created a dynamic web application with real-time chat, convenient navigation, and profile customization using Django, MySQL, HTML, CSS, and JavaScript.",
+        "features": [
+          "Login, Register",
+          "Debate Rooms",
+          "Search and Navigation",
+          "Profile Customization",
+          "CRUD functionality"
+        ],
+        "technologies": ["Django", "Django REST framework", "MySQL", "HTML", "CSS", "JavaScript", "Python"]
+      },
+      {
+        "title": "Arduino-based Smart Shopping Cart (IoT)",
+        "duration": "Aug 2023 - Nov 2023",
+        "supervisor": "Prof. Sanjay Kumar Singh",
+        "description": "Developed an RFID-based automatic shopping cart integrated with a billing system to enhance the traditional grocery shopping experience by automating item scanning and billing processes.",
+        "components": [
+          "Arduino Uno",
+          "16x2 LCD Display (I2C)",
+          "4x4 Matrix Keypad",
+          "MFRC522 RFID Reader and Tags",
+          "Buzzer"
+        ],
+        "technologies": ["Arduino IDE", "C"],
+        "libraries": ["LiquidCrystal_I2C", "MRFC522", "LCD03", "Keypad"]
+      }
+    ],
+    "certified_courses": [
+      "Python and Artificial Intelligence course by AWS, GDSC, Microsoft Learn & Devtown",
+      "C++ and DSA course by CodeChef",
+      "Backend Web Development course by AWS, GDSC, Microsoft Learn & Devtown",
+      "Frontend Web Development course by AWS, GDSC, Microsoft Learn & Devtown"
+    ],
+    "positions_of_responsibility": [
+      {
+        "title": "Induction Mentor",
+        "organization": "Student Counselling Services",
+        "description": "Served as an Induction Mentor, ensuring a smooth and welcoming transition for freshers during their initial days."
+      }
+    ],
+    "honours_and_achievements": [
+      "Rank 15825 in JEE-Advanced 2022 - among more than 2L selected candidates"
+    ],
+    "extra_curricular_activities": [
+      {
+        "title": "Certificate of Participation",
+        "event": "EY Techathon 4.0 by EY (Ernst & Young)"
+      },
+      {
+        "title": "Participation",
+        "event": "Quiz of Flipkart Runway: Season 4 by Flipkart"
+      }
+    ]
+  }
+  
