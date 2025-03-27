@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# 🌟 Personal Portfolio Webpage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my interactive portfolio webpage built using React and Tailwind CSS, designed to showcase my skills, projects, and resume. The website includes a built-in AI chatbot that answers queries related to my resume, experience, and projects.
 
-## Available Scripts
+🚀 Features
+✅ Introduction – A brief overview about me.
+✅ Skills – Key technical skills, highlighting Data & DevOps expertise.
+✅ Resume Overview – A downloadable resume link.
+✅ Contact – Interactive buttons for LinkedIn, GitHub, and email.
+✅ AI Chatbot 🤖 – An LLM-powered chatbot (Groq Cloud/Together AI) that answers resume-related queries.
+✅ Responsive Design – Works smoothly on both desktop and mobile.
+✅ DevOps Deployment – Version controlled using GitHub and deployed on Vercel/Netlify.
 
-In the project directory, you can run:
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS
 
-### `npm start`
+Backend: Node.js, Express.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+AI Chatbot: Groq Cloud
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Deployment: Vercel
 
-### `npm test`
+## 📂 Project Structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+portfolio/
+│── backend/           # Backend API for chatbot (Node.js,Express.js)
+│── public/            # Public assets (resume, images, favicon, etc.)
+│── src/               # Main frontend source code (React components)
+│── .gitignore         # Files to ignore in Git  
+│── README.md          # Project documentation  
+│── package.json       # Dependencies & scripts  
+│── tailwind.config.js # Tailwind CSS configuration  
+│── postcss.config.js  # PostCSS configuration  
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1️⃣ Clone the Repository
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+git clone https://github.com/Prachi19112003/portfolio.git
+cd portfolio
 
-### `npm run eject`
+### 2️⃣ Install Dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Bnpm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 3️⃣ Run the Project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 4️⃣ Backend Setup
 
-## Learn More
+-Navigate to the backend folder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-Install dependencies:
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-Run the server:
+node server.js
 
-### Code Splitting
+## 🌍 Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The project is deployed using Vercel/Netlify. You can access it here:
+🔗 Live Website: [https://portfolio-5vteeq2xi-prachis-projects-4d66c240.vercel.app/]
 
-### Analyzing the Bundle Size
+## 📬 Contact
+Connect with me:
+📧 Email: [prachi.student.cse22@itbhu.ac.in]
+🔗 LinkedIn: [https://www.linkedin.com/in/prachi-131415295]
+🐙 GitHub: [https://github.com/Prachi19112003]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
